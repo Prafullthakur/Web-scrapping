@@ -1,0 +1,23 @@
+{
+    "name": "web-scrapper",
+    "version": "1.0.0",
+    "description": "web scrapping with node js",
+    "main": "scrap.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Prafullthakur/Web-scrapping.git"
+    },
+    "author": "Prafull Chauhan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Prafullthakur/Web-scrapping/issues"
+    },
+    "homepage": "https://github.com/Prafullthakur/Web-scrapping#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "request": "^2.88.2"
+    }
+}
